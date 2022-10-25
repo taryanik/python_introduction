@@ -1,4 +1,4 @@
-"""Zadanie 4 (4.py)
+"""Zadanie 2 (2.py)
 Napisz skrypt, który sprawdzi czy litera wprowadzona przez użytkownika jest duża czy mała."""
 
 string = input('Enter the character(We check only the first character): ')
